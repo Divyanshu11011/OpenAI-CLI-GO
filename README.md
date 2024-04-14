@@ -15,6 +15,6 @@ This project is a command-line interface (CLI) application built in Go. It inter
 To run this project, clone the repository and install Go. Set up your environment with necessary API keys from OpenAI.
 
 ```bash
-git clone <Repository-URL>
+git clone <https://github.com/Divyanshu11011/OpenAI-CLI-GO.git>
 cd <ProjectName>
 go run main.go
